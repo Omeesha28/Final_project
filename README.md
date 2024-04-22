@@ -30,6 +30,22 @@ In the fiercely competitive retail sector, the ability to forecast Weekly Sales 
 <summary>Show/Hide</summary>
 <br>
 
+### Data Source
+Source : The dataset is taken from Kaggle
+URL : https://www.kaggle.com/code/yasserh/walmart-sales-prediction-best-ml-algorithms/input
+
+Data analysis
+Data in the form of columns:
+* Store - the store number (1-45)
+* Date - the week of sales (2010,2011,2012)
+* Weekly_Sales - sales for the given store
+* Holiday_Flag - whether the week is a special holiday week (1 – Holiday week and 0 – Non-holiday week)
+* Temperature - Temperature on the day of sale
+* Fuel_Price - Cost of fuel in the region
+* CPI – Prevailing consumer price index
+* Unemployment - Prevailing unemployment rate
+
+
 1. [ File Descriptions ](#File_Description)
 2. [ Technologies Used ](#Technologies_Used)    
 3. [ Structure ](#Structure)
