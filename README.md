@@ -93,8 +93,8 @@ In the fiercely competitive retail sector, the ability to forecast Weekly Sales 
     * 1.6.3 Data Distribution: Categorical Features
   * 1.7 Feature Analysis
     * 1.7.1 Feature Analysis: Holiday_Flag vs Weekly_Sales
-    * 1.7.2 Feature Analysis: Day, Month, Year vs Weekly_Sales
-    * 1.7.3 Feature Analysis: Unempoloyment, CPI vs Weekly_Sales
+    * 1.7.2 Feature Analysis: Month, Year vs Weekly_Sales
+    * 1.7.3 Feature Analysis: Histogram to show the distribution of the data for Uempoloyment, Fuel Price, Temperature and Weekly_Sales
   * 1.8 Finding and Handling Outliers
   
 </details>
